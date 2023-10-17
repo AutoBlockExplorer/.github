@@ -19,7 +19,7 @@ AutoBlockExplorer is a cutting-edge automobile community that harnesses the powe
 
 <h3>Maintenance Reminders: </h3> Set personalized maintenance reminders to stay on top of routine tasks such as oil changes, filter replacements, and tire rotations. Never miss an important service interval again.
 
-<h1>Additionally</h1>
+<h1>Featured</h1>
 
 In addition to the features mentioned earlier, AutoBlockExplorer offers a unique opportunity for members to monetize their own specific car data. We believe in rewarding our community for their contributions and valuable insights. 
 
