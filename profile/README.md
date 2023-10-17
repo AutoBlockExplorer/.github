@@ -3,7 +3,7 @@ AutoBlockExplorer is a cutting-edge automobile community that harnesses the powe
 
 
 
-<h1>Featured</h1>
+<h1>Body</h1>
 
 <h3>Personalized AI Models:</h3> Our AI-powered platform utilizes vehicle-specific models to provide accurate diagnostics, maintenance suggestions, and repair instructions tailored to your car's make, model, and year.
 
