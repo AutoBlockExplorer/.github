@@ -23,7 +23,7 @@ AutoBlockExplorer is a cutting-edge automobile community that harnesses the powe
 
 In addition to the features mentioned earlier, AutoBlockExplorer offers a unique opportunity for members to monetize their own specific car data. We believe in rewarding our community for their contributions and valuable insights. Here's how members can earn:
 
-Upload Specific Car Data: Members can contribute their specific car data, including performance metrics, maintenance records, and repair histories. This data helps improve the accuracy and effectiveness of our AI models. The more data members upload, the more they contribute to the community's collective knowledge.
+<h3>Upload Specific Car Data: </h3>Members can contribute their specific car data, including performance metrics, maintenance records, and repair histories. This data helps improve the accuracy and effectiveness of our AI models. The more data members upload, the more they contribute to the community's collective knowledge.
 
 Data Contribution Rewards: As a token of appreciation, members receive rewards for uploading their specific car data. These rewards can be in the form of virtual currency or loyalty points, which can be redeemed for various benefits within the AutoBlockExplorer platform.
 
